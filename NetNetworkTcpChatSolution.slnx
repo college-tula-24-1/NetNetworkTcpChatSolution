@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NetNetworkTcpChatClientApp/NetNetworkTcpChatClientApp.csproj" Id="797b046e-067a-4e5a-9e64-fbc3521dfbc1" />
+  <Project Path="NetNetworkTcpChatListenerApp/NetNetworkTcpChatListenerApp.csproj" />
+</Solution>
